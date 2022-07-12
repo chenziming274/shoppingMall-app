@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>椭圆形备份 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M35,38 L3,38 C1.35,38 0,36.65 0,35 L0,3 C0,1.35 1.35,0 3,0 L35,0 C36.65,0 38,1.35 38,3 L38,35 C38,36.65 36.65,38 35,38" id="Square备份-7" stroke="#979797" stroke-width="0.125"></path>
+        <circle id="椭圆形备份-2" stroke="#343435" stroke-width="2" cx="19" cy="19" r="18"></circle>
+        <circle id="椭圆形备份-3" fill="#343435" cx="11.5" cy="14.5" r="2.5"></circle>
+        <circle id="椭圆形备份-4" fill="#343435" cx="22.5" cy="14.5" r="2.5"></circle>
+        <path d="M27,24.6666667 C26,27.5555556 24,28.8355556 21,28.5066667" id="路径-2备份" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>
